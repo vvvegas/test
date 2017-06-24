@@ -1,8 +1,8 @@
-hash: e31a3128fa8c269a67f3e6b1b8bd80b4b615d74bc1be1be6860585e2d98210b2
-updated: 2017-06-24T19:04:42.873581021+08:00
+hash: baf0a0248121dd9220c69a50ebbe4afd0e1b8cab502fc47b8c13e181672d6410
+updated: 2017-06-24T19:48:37.512744687+08:00
 imports:
 - name: github.com/pfctgeorge/bar
-  version: 55dbf972fcb32d4a37279e59437ceffd42e12c33
+  version: f9966cb1e2001a941e6437fbb96639d66b75a559
 - name: github.com/pfctgeorge/foo
-  version: 568dbfb6e5d4d2006df7663d856e1518d7c75ae0
+  version: 5f61af17120d1cec0fc60670f80ddc184c24d830
 testImports: []

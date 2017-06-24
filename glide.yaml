@@ -1,6 +1,6 @@
 package: github.com/pfctgeorge/test
 import:
 - package: github.com/pfctgeorge/foo
-  version: 1.0
-- package: github.com/pfctgeorge/bar
   version: 2.0
+- package: github.com/pfctgeorge/bar
+  version: 1.0
